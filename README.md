@@ -1,5 +1,5 @@
 # Unity-and-Web-Projects
-These a collection of my own IT projects. 
+This is a collection of my own IT projects. 
 
 My first website: https://github.com/newbieprogrammer123/Website
 
